@@ -1,0 +1,2 @@
+# GoTest
+Go練習
